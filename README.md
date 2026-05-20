@@ -1,5 +1,7 @@
 # Portfolio Website
 https://munamoses.github.io/portfolio/
+NAME: MOSES GODFREY MUNA
+REGISTRATION: BITAM/11/23/077TZ
 
 This is a responsive portfolio website built using:
 
